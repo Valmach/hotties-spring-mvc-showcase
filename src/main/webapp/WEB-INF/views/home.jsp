@@ -42,6 +42,8 @@
                  <p>
                         I am adding this extra line
                  </p>
+
+                 <p>Har har vi ett nye linje</p>
 <p>
 This is the second line to be added
 </p>
