@@ -44,6 +44,9 @@
                  </p>
 
                  <p>Har har vi ett nye linje</p>
+
+                 <p>og igen har vi ett nye Norsk Linje</p>	
+                 
 <p>
 This is the second line to be added
 </p>
